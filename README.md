@@ -1,7 +1,7 @@
 
-### Why CSS Grid AND Flexbox is better than Bootstrap for creating responsive layouts
+## Why CSS Grid AND Flexbox is better than Bootstrap for creating responsive layouts
 
-## Grid Features
+### Grid Features
 
 ### "Automagic" responsive breakdown
 Built into the grid is an opinated take on how the different column layouts should reflow and breakdown across the 5 breakpoints. This works nicely for those that want to get up and running quickly, need their content to look great across many screens, and don't need the granualar control over the breakdown of columns for each breakpoint.
