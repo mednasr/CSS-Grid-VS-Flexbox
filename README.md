@@ -1,4 +1,6 @@
 
+### Why CSS Grid AND Flexbox is better than Bootstrap for creating responsive layouts
+
 ## Grid Features
 
 ### "Automagic" responsive breakdown
