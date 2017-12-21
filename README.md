@@ -174,7 +174,10 @@ Without doing anything, IE8 will show the mobile first view. If that is not acce
 </head>
 ```
 
-### Why do you need flex.css?
+
+
+
+## Why do you need flex.css?
 ```
 In the process of Mobile Terminal Development, standard flex is not supported by all versions of all kinds of
 browsers, webview, and wechat which basically support  -webkit-box. So flex.css's main purpose is to ensure
